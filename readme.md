@@ -61,7 +61,7 @@ Here are some examples screenshots of the widgets you can create:
 
 ![Gauges2](docs/img/gauges2.png)  
 
-![Gauges2doc](docs/img/gauges2doc.png)
+![Gauges2doc](docs/img/gauge2doc.png)
 
 #### Rotary-Scale: (Tachymeter)    
 
